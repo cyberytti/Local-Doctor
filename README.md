@@ -31,7 +31,7 @@ The model was trained on a combined dataset derived from two primary sources:
 
 These were merged into a final training dataset: `combined_disease_dataset.csv`.
 You can find the datasets here:  
-[📂 Datasets](https://github.com/cyberytti/Local-Doctor/tree/main/datasets)
+[📂 Datasets](https://github.com/cyberytti/Local-Doctor/tree/main/dataset)
 
 ### Training Environment
 *   **Framework:** Unsloth
