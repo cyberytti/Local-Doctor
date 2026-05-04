@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="" alt="LocalDoctor" width="120" />
+  <img src="https://github.com/cyberytti/Local-Doctor/blob/main/assets/logo.png" alt="LocalDoctor" width="150" />
 </p>
