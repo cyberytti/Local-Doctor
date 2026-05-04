@@ -16,10 +16,10 @@
 
 ## 🏗️ Architecture & Model Details
 
-This repository provides the Streamlit inference interface for the [local_doctor-360M]("https://huggingface.co/Ahahajij182u2/local_doctor-360M") model. The core intelligence is driven by a custom-trained Large Language Model (LLM).
+This repository provides the Streamlit inference interface for the [local_doctor-360M](https://huggingface.co/Ahahajij182u2/local_doctor-360M) model. The core intelligence is driven by a custom-trained Large Language Model (LLM).
 
 ### Model Specifications
-*   **Base Model:** [SmolLM2-360M-Instruct]("https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct")
+*   **Base Model:** [SmolLM2-360M-Instruct](https://huggingface.co/HuggingFaceTB/SmolLM2-360M-Instruct)
 *   **Architecture:** LoRA Fine-tuned
 *   **Model Name:** `local_doctor-360M`
 *   **Creator:** [cyberytti](https://github.com/cyberytti)
@@ -46,7 +46,7 @@ You can view the training scripts and notebooks here:
 Follow these steps to set up and run Local Doctor locally.
 
 ### Prerequisites
-*   Python 3.8+
+*   Python 3.10+
 *   Git
 
 ### Step 1: Clone the Repository
