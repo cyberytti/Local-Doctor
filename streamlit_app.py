@@ -2,7 +2,7 @@ import streamlit as st
 from transformers import AutoModelForCausalLM, AutoTokenizer
 import torch
 
-MODEL_NAME = "local_doctor-360M"
+MODEL_NAME = "Ahahajij182u2/local_doctor-360M"
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
